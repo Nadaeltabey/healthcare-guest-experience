@@ -1,2 +1,8 @@
-# healthcare-guest-experience
-Guest journey maps, service improvement guides, and clinic checklists designed to enhance patient experience and create a personalized, comfortable healthcare journey. Prepared as part of Guest Experience Management with credit to healthcare.gammal.tech.
+# Guest Experience Package
+Prepared by: Guest Experience Manager  
+Credit: healthcare.gammal.tech
+
+This package includes:
+- Guest Journey Maps
+- Service Improvement Guides
+- Checklists for partner clinics
